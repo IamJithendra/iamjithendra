@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=iamjithendra&show_icons=true&hide_border=false)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA0MjMwMTRdfQ==
--->
