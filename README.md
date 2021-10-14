@@ -22,13 +22,13 @@
 <a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 
 ## 📊 Stats
-[![Metrics](https://github.com/AnjanaMadu/AnjanaMadu/raw/main/github-metrics.svg)](https://github.com/AnjanaMadu)
+[![Metrics](https://github.com/iamjithendra/iamjithendra/raw/main/github-metrics.svg)](https://github.com/iamjithendra)
 
 ## 🔗 Connect with me
 <!-- png icons from https://iconscout.com/ -->
-<a href="https://telegram.me/Anjana_Ma" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="anjana.madu" height="30" width="30" /></a>
-<a href="https://instagram.com/madu_anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madu_anjana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucwodpetjnainvid2ussr7va" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwodpetjnainvid2ussr7va" height="30" width="40" /></a>
+<a href="https://telegram.me/iamjithendra" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="iamjithendra" height="30" width="30" /></a>
+<a href="https://instagram.com/iamjithendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamjithendra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwodpetjnainvid2ussr7va" height="30" width="40" /></a>
 <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjana.madu.54" height="30" width="40" /></a>
 <br>
 
@@ -36,4 +36,4 @@
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
 ## 💰 Support Me
-<a href="https://ko-fi.com/anjanamadu"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
+<a href="https://ko-fi.com/"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
