@@ -1,10 +1,10 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Jithendra V Kumar](https://github.com/iamjithendra) | [![Profile views](https://komarev.com/ghpvc/?username=iamjithendra&label=Profile%20Views&color=red)](https://github.com/iamjithendra)
    
-- 🔭 I’m currently **Studying**
+- 🔭 I’m currently ~~Studying~~ Working
 - 🌱 I’m currently learning **Python.**
 - 💬 Ask me about **anything, I am happy to help.**
 - 👨‍💻 All of my projects are available at *t.me/mallubots*
-- ⚡ Fun fact **still Student.**
+- ⚡ Fun fact ~~still Student.~~ Currently working. 
 
 ## 🛠️ Languages and tools
 <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
