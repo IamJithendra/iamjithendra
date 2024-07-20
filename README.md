@@ -14,8 +14,8 @@
 <a href="https://www.linux.org"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
 <a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-<a href="https://kotlinlang.org"><img src="[https://img.icons8.com/color/48/000000/kotlin--v1.png]"/></a>
-<a href="https://www.android.com"><img src="[https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000]"/></a>
+<a href="https://kotlinlang.org"><img src="https://img.icons8.com/color/48/000000/kotlin--v1.png"/></a>
+<a href="https://www.android.com"><img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000"/></a>
 
 ## 🔗 Connect with me
 <!-- png icons from https://iconscout.com/ -->
