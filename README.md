@@ -6,10 +6,6 @@
 - 👨‍💻 All of my projects are available at *t.me/mallubots*
 - ⚡ Fun fact ~~still Student.~~ Currently working.
 
-- ### Stats ⚡️
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=IamJithendra&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
-
 ## 🛠️ Languages and tools
 <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
 <a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a>
