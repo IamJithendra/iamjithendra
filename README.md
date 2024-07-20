@@ -8,15 +8,14 @@
 
 ## 🛠️ Languages and tools
 <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
-<a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a>
-<a href="https://www.gnu.org/software/bash"><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/></a>
-<a href="https://www.docker.com"><img src="https://img.icons8.com/fluency/50/000000/docker.png"/></a>
 <a href="https://cloud.google.com"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
 <a href="https://heroku.com"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
 <a href="https://www.w3.org/html"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
 <a href="https://www.linux.org"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
 <a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+<a href="https://kotlinlang.org"><img src="[https://img.icons8.com/color/48/000000/kotlin--v1.png]"/></a>
+<a href="https://www.android.com)"><img src="[https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000]"/></a>
 
 ## 🔗 Connect with me
 <!-- png icons from https://iconscout.com/ -->
